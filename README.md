@@ -4,7 +4,7 @@ A Simple Calculator made with kivy framework.Works on all platforms from Windows
 
 ## Description
 
-Simple kivy project to help new users build android apps with python.
+Simple kivy project to help new kivy users build android apps with python.
 
 ## Getting Started
 
