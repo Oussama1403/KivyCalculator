@@ -42,9 +42,9 @@ buildozer init
 edit buildozer.spec file like app title.
 then copy your calculator application into your new folder and rename it to main.py.
 and now run
-'''
+```
 buildozer -v android debug
-'''
+```
 first build will take a long time;Buildozer will download whatever Android SDK pieces it needs during the build process.
 if build success you will find your apk in bin folder.
 
