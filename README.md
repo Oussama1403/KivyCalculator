@@ -1,7 +1,7 @@
 # Kivy Calculator
 
 A Simple Calculator made with kivy framework.Works on all platforms from Windows/linux to android.
-
+![CalcUI](calc_ui.png)
 ## Description
 
 Simple kivy project to help new kivy users build android apps with python.
